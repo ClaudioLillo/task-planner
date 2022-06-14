@@ -1,0 +1,12 @@
+.navigator{
+    height: 100vh;
+    width: 25vw;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.navigator h1{
+    font-size: 1.5em;
+}
