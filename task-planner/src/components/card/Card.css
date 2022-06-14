@@ -1,0 +1,25 @@
+.card{
+    border: 2px solid grey;
+    max-width: 150px;
+    border-radius: 5px;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.card-header{
+    width: 100%;
+    background: grey;
+    height:40px;
+    margin: 0;
+    border: 2px solid grey;
+    text-align: center;
+    
+}
+
+.card-header p{
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
